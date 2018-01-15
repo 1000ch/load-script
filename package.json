@@ -1,0 +1,16 @@
+{
+  "name": "@1000ch/load-script",
+  "version": "0.0.0",
+  "description": "Load script util",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/1000ch/load-script.git"
+  },
+  "author": "1000ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1000ch/load-script/issues"
+  },
+  "homepage": "https://github.com/1000ch/load-script#readme"
+}
