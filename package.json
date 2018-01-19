@@ -1,6 +1,6 @@
 {
   "name": "@1000ch/load-script",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Load a script file with script element",
   "main": "index.js",
   "repository": {
