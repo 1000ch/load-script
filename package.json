@@ -1,7 +1,7 @@
 {
   "name": "@1000ch/load-script",
   "version": "0.0.0",
-  "description": "Load script util",
+  "description": "Load a script file with script element",
   "main": "index.js",
   "repository": {
     "type": "git",

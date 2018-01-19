@@ -1,5 +1,7 @@
 # load-script
 
+Load a script file with script element.
+
 ## Install
 
 ```bash
